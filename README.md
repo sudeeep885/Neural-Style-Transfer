@@ -17,6 +17,8 @@ Therefore, we have to __minimize__ these loss functions by using __Gradient Desc
 In this project, I have used pre-trained __VGG19__ model which was trained on the famous __ImageNet__ dataset.
 Only certain intermediate layers were used to determine the content and style features in the images.
 
+P.S. : If my neural_style_transfer.ipynb notebook is not opening in GitHub. Then please have a look on it here - https://nbviewer.jupyter.org/github/sudeeep885/Neural-Style-Transfer/blob/master/Neural_style_transfer.ipynb
+
 ### Style images used 📸
 
 1. Composition 7 by Vassily Kandinsky, [public domain](https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1913_-_Composition_7.jpg)
