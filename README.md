@@ -1,10 +1,10 @@
 # Neural Style Transfer ✨
 
 ### Concept 📌
-Neural style transfer can be defined as a technique in which three images i.e. __content image, style image and a copy of content image (as input)__ are taken and blend together so that the resulting image becomes the mixture of two images that is, the resulting image will have the style of style image and content of content image.
+Neural style transfer can be defined as a technique in which three images i.e. __content image, style image and a copy of content image (as input)__  are taken and are blend together so that the resulting image becomes the mixture of two images that is, the resulting image will have the style of style image and content of the content image.
 
-### Principal 🎓
-The principal behind this technique is to define to __loss functions__, one for content loss and other for style loss.
+### Principle 🎓
+The principle behind this technique is to define to __loss functions__, one for content loss and other for style loss.
 
 - In the content loss function, a simple distance function is defined which describes how different the content of input image and the content image is.
 
